@@ -1,4 +1,4 @@
-![Header image](https://github.com/ddechew/ddechew/blob/main/header-img.png)
+![Header image](https://github.com/ddechew/ddechew/blob/main/header-image.png)
 
 <h3 align="center">📚 Hard Working Student and a Future Software Engineer 🚀</h3>
 
